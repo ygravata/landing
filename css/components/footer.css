@@ -1,0 +1,22 @@
+.footer {
+  background-color: darkgray;
+  height: auto;
+  text-align: center;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.footer-links {
+  font-size: 40px;
+  color: #009c4b;
+  align-content: center;
+  padding-bottom: 16px
+}
+
+.footer-links a i {
+  color: #009c4b;
+}
+
+.footer p {
+    color: #009c4b;
+}

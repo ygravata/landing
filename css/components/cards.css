@@ -1,0 +1,18 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  text-align: center;
+  width: 200px;
+  border: solid;
+  border-color: lightgray;
+  padding: 32px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+}
+
+.card img{
+  height: 100px;
+
+}

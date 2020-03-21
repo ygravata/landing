@@ -1,0 +1,35 @@
+
+.banner {
+  background-image: url(../../images/giftbackground.jpg.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 140px;
+  filter: grayscale(20%);
+}
+
+.banner h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-shadow: grey 0px 0px 0.8px;
+  }
+
+.banner p {
+  color: white;
+  font-weight: lighter;
+  font-size: 32px;
+  text-shadow: grey 0px 0px 2.1px;
+}
+
+.banner a {
+  display: inline-block;
+  background-color: rgb(0, 156, 75);
+  color: white;
+  border-radius: 25px;
+  padding: 16px 23px;
+}
+
+.banner a:hover {
+background-color: rgb(0, 102, 49);
+
+}
